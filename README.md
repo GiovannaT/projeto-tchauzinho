@@ -1,13 +1,22 @@
-## Running React on Repl.it
+## Web3: Contratos inteligentes
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Projeto front-end para o workshop sobre Web3: Contratos inteligentes com Solidity. React + Vite
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+Dependências: 
+* hardhat
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## :rocket: Executando
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+Clone o projeto e acesse o diretório:
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+```bash
+$ git clone https://github.com/GiovannaT/projeto-tchauzinho.git
+$ cd projeto-tchauzinho
+```
+
+```bash
+# Instale as dependências e execute o projeto
+$ npm i 
+$ npm run vite
+```
+
